@@ -1,46 +1,90 @@
-# Hi, I’m Adarsh Jha 👋
+# 👋 Hi, I'm Adarsh Jha
 
-Computer Science Undergraduate  
-Cybersecurity & Cloud (AWS) Learner  
-
----
-
-## 🧠 About Me
-- Computer Science Engineering student interested in **cybersecurity, cloud, and system fundamentals**
-- Comfortable with **Python, C, C++**, with basic experience in **Java & JavaScript**
-- Familiar with **Kali Linux** for learning and practicing security tools
-- Good understanding of **DBMS concepts** and database fundamentals
-- Basic experience with **React & Next.js** through academic and self-learning
-- Currently learning **AWS Cloud fundamentals and security concepts**
+🎓 Computer Science student focused on **Cybersecurity, Cloud**  
+☁️ Currently exploring **AWS Cloud & basic security practices**  
+🔐 Passionate about building **secure, scalable, and practical systems**
 
 ---
 
-## 🛠 Technical Skills
-**Languages:** Python, C, C++, Java  
-**Web:** React, Next.js (Basics), JavaScript, HTML, CSS  
-**Cloud:** AWS (Learning: IAM, EC2, VPC basics)  
-**Security:** Kali Linux (Learning environment), security fundamentals  
-**Databases:** MySQL, MongoDB, DBMS fundamentals  
-**Core CS:** DSA, Networking basics, OS fundamentals  
-**Tools:** Git, GitHub, Linux  
+## 🚀 About Me
+- Strong interest in **cloud infrastructure, cybersecurity, and backend systems**
+- Hands-on with **Linux, networking basics, and web development**
+- Believe in **learning by building, breaking, and improving**
+- Focused on becoming a **cloud & security-oriented engineer**
 
 ---
 
-## 📈 Current Focus
-- Learning cybersecurity fundamentals & SOC concepts  
-- Exploring AWS Cloud & basic security practices  
-- Strengthening problem-solving and system-level understanding  
+## 🛠️ Technical Skills
+
+### 💻 Languages
+![Languages](https://skillicons.dev/icons?i=c,cpp,python,java,html,css)
+
+---
+
+### 🌐 Web Development
+![Web](https://skillicons.dev/icons?i=js,react,nextjs)
+
+---
+
+### ☁️ Cloud & Deployment
+![Cloud](https://skillicons.dev/icons?i=aws,firebase)
+![Netlify](https://img.shields.io/badge/Netlify-Deployed-brightgreen?style=for-the-badge&logo=netlify)
+
+- AWS (IAM, EC2, VPC basics – learning)
+- Firebase (Authentication & Firestore)
+- Netlify (real project deployments)
+
+---
+
+### 🔐 Security & Systems
+![Linux](https://skillicons.dev/icons?i=linux)
+
+- Kali Linux (learning environment)
+- Security fundamentals
+- Networking basics
+- Operating System fundamentals
+
+---
+
+### 🗄️ Databases
+![Databases](https://skillicons.dev/icons?i=mysql,mongodb)
+
+- Java + MySQL Connector (JDBC)
+
+---
+
+### 🧰 Tools & Engineering
+![Tools](https://skillicons.dev/icons?i=git,github)
+
+![MATLAB](https://img.shields.io/badge/MATLAB-MathWorks-orange?style=for-the-badge&logo=mathworks)
+
+---
+
+
+## 🐍 Contribution Activity
+![Snake animation](https://raw.githubusercontent.com/AdarshCodes1221/AdarshCodes1221/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 📊 GitHub Stats
-![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdarshCodes1221&show_icons=true&theme=tokyonight)
-
-## 💻 Most Used Languages
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdarshCodes1221&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshCodes1221&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=AdarshCodes1221&theme=tokyonight)
+
+---
+
+## 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=AdarshCodes1221&label=Profile%20Views&color=blue&style=for-the-badge)
+
+> 🔎 *Note:* This shows **real profile views**, not repository clones (GitHub does not expose clone data publicly).
 
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/adarsh-jha-46a0041bb/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/AdarshCodes1221)
+- 💼 LinkedIn: https://www.linkedin.com/in/adarsh-jha-46a0041bb/
+- 💻 GitHub: https://github.com/AdarshCodes1221
+
+---
+
+## ✨ Quote I Live By
+> **“Focus on building real skills quietly — let results make the noise.”** 🚀
