@@ -55,21 +55,22 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/adarshzha25/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" height="50"/>
+    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-orange?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.hackerrank.com/profile/adarshzha25" target="_blank">
-    <img src="https://skillicons.dev/icons?i=hackerrank" height="50"/>
+    <img src="https://img.shields.io/badge/HackerRank-Coding%20Practice-brightgreen?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.coursera.org/learner/adarsh-jha-2747" target="_blank">
-    <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" height="50"/>
+    <img src="https://img.shields.io/badge/Coursera-Certified%20Courses-0056D2?style=for-the-badge&logo=coursera&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
   Actively practicing problem-solving, structured courses, and hands-on labs
 </p>
+
 
 ---
 
