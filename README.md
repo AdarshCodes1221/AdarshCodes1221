@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Adarsh Jha
 
-🎓 Computer Science student focused on **Cybersecurity, Cloud**  
+🎓 Computer Science student with a strong focus on **Cybersecurity, Cloud**  
 ☁️ Currently exploring **AWS Cloud & basic security practices**  
 🔐 Passionate about building **secure, scalable, and practical systems**
 
@@ -8,9 +8,9 @@
 
 ## 🚀 About Me
 - Strong interest in **cloud infrastructure, cybersecurity, and backend systems**
-- Hands-on with **Linux, networking basics, and web development**
+- Hands-on experience with **Linux, networking fundamentals, and web development**
 - Believe in **learning by building, breaking, and improving**
-- Focused on becoming a **cloud & security-oriented engineer**
+- Working towards becoming a **cloud & security-oriented engineer**
 
 ---
 
@@ -19,12 +19,8 @@
 ### 💻 Languages
 ![Languages](https://skillicons.dev/icons?i=c,cpp,python,java,html,css)
 
----
-
 ### 🌐 Web Development
 ![Web](https://skillicons.dev/icons?i=js,react,nextjs)
-
----
 
 ### ☁️ Cloud & Deployment
 ![Cloud](https://skillicons.dev/icons?i=aws,firebase)
@@ -34,8 +30,6 @@
 - Firebase (Authentication & Firestore)
 - Netlify (real project deployments)
 
----
-
 ### 🔐 Security & Systems
 ![Linux](https://skillicons.dev/icons?i=linux)
 
@@ -44,19 +38,38 @@
 - Networking basics
 - Operating System fundamentals
 
----
-
 ### 🗄️ Databases
 ![Databases](https://skillicons.dev/icons?i=mysql,mongodb)
 
 - Java + MySQL Connector (JDBC)
 
----
-
 ### 🧰 Tools & Engineering
 ![Tools](https://skillicons.dev/icons?i=git,github)
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-MathWorks-orange?style=for-the-badge&logo=mathworks)
+
+
+---
+
+## 🎓 Learning & Practice Platforms
+
+<p align="center">
+  <a href="https://leetcode.com/u/adarshzha25/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=leetcode" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/adarshzha25" target="_blank">
+    <img src="https://skillicons.dev/icons?i=hackerrank" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.coursera.org/learner/adarsh-jha-2747" target="_blank">
+    <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" height="50"/>
+  </a>
+</p>
+
+<p align="center">
+  Actively practicing problem-solving, structured courses, and hands-on labs
+</p>
 
 ---
 
@@ -76,8 +89,6 @@
 ## 👀 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=AdarshCodes1221&label=Profile%20Views&color=blue&style=for-the-badge)
 
-> 🔎 *Note:* This shows **real profile views**, not repository clones (GitHub does not expose clone data publicly).
-
 ---
 
 ## 🌐 Connect With Me
@@ -87,4 +98,4 @@
 ---
 
 ## ✨ Quote I Live By
-> **“Focus on building real skills quietly — let results make the noise.”** 🚀
+> **“Strong fundamentals compound faster than flashy tools.”**
