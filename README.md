@@ -79,6 +79,32 @@
 ![Snake animation](https://raw.githubusercontent.com/AdarshCodes1221/AdarshCodes1221/output/github-contribution-grid-snake.svg)
 
 ---
+---
+
+## 🧩 GitHub Developer & API Projects
+
+### 🔍 GitHub Repository Health & Security Analyzer
+A full-stack developer tool built using **GitHub OAuth** and **GitHub REST APIs** to evaluate repository quality and engineering readiness.
+
+**Key Capabilities**
+- Secure GitHub OAuth authentication
+- Profile-level repository analysis
+- Repo health scoring (README, License, Activity)
+- Repo-wise insights with charts and rankings
+- Environment-safe token handling
+
+**What this demonstrates**
+- Practical use of GitHub Developer Platform
+- OAuth 2.0 authorization flows
+- API design & backend engineering
+- Security-aware development practices
+
+🔗 Project Repository:  
+https://github.com/AdarshCodes1221/github-repo-inspector
+
+---
+
+
 
 ## 📊 GitHub Stats
 
