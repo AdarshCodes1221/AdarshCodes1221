@@ -81,8 +81,13 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdarshCodes1221&show_icons=true&theme=tokyonight)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdarshCodes1221&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
+
+![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdarshCodes1221&theme=tokyonight)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshCodes1221&layout=compact&theme=tokyonight)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=AdarshCodes1221&theme=tokyonight)
 
 ---
