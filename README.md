@@ -2,12 +2,14 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Cloud+%26+Cybersecurity+Enthusiast;Backend+Developer;AWS+Cloud+Explorer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Computer+Science+Undergraduate;Cloud+%26+Cybersecurity+Enthusiast;Full+Stack+Developer;Problem+Solver)](https://git.io/typing-svg)
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://adarsh-portfolio.netlify.app)
 
 </div>
 
-🎓 **Computer Science Student** specializing in **Cybersecurity & Cloud Computing**  
-☁️ Currently exploring **AWS Cloud & security best practices**  
+🎓 **Computer Science Undergraduate** specializing in **Cybersecurity & Cloud Computing**  
+☁️ Currently exploring **Cloud Infrastructure & security best practices**  
 🔐 Building **secure, scalable, and practical systems**  
 🚀 Learning by **building, breaking, and improving**
 
@@ -125,6 +127,11 @@ Built using **GitHub OAuth** and **GitHub REST APIs** to evaluate repository qua
 
 ![Snake animation](https://raw.githubusercontent.com/AdarshCodes1221/AdarshCodes1221/output/github-contribution-grid-snake.svg)
 
+### 🎯 GitHub Profile Summary
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdarshCodes1221&theme=tokyonight" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AdarshCodes1221&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+
 </div>
 
 ---
@@ -183,7 +190,7 @@ Built using **GitHub OAuth** and **GitHub REST APIs** to evaluate repository qua
 
 > **"Strong fundamentals compound faster than flashy tools."**
 
-
+*Building secure, scalable systems one commit at a time* 🚀
 
 ---
 
