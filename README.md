@@ -25,6 +25,20 @@
 
 ---
 
+## 🌍 Open-Source Contributions
+
+### 🔹 Edulume (Full-Stack Learning Platform)
+- Added standardized `.env.example` files for **frontend and backend**
+- Aligned environment variables with the official **installation guide**
+- Improved developer onboarding and local setup experience
+- ✅ Pull Request merged by the project maintainer
+
+### 🔹 Alice Novel (Open-Source Documentation Site)
+- Updated tags and categories for **v0.9.3** release documentation
+- Improved content organization and metadata consistency
+- Contributed to cleaner, more maintainable project docs
+
+
 ## 🛠️ Technical Arsenal
 
 ### 💻 Programming Languages
