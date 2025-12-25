@@ -1,22 +1,23 @@
 # 👋 Hi, I'm Adarsh Jha
 
-🎓 Computer Science student with a strong focus on **Cybersecurity, Cloud**  
-☁️ Currently exploring **AWS Cloud & basic security practices**  
-🔐 Passionate about building **secure, scalable, and practical systems**
+🎓 Computer Science student with a strong focus on **Cybersecurity & Cloud Computing**  
+☁️ Exploring **AWS Cloud**, backend systems, and secure application design  
+🔐 Passionate about building **reliable, scalable, and security-aware solutions**
 
 ---
 
 ## 🚀 About Me
-- Strong interest in **cloud infrastructure, cybersecurity, and backend systems**
+- Strong interest in **cloud infrastructure, cybersecurity, and backend engineering**
 - Hands-on experience with **Linux, networking fundamentals, and web development**
+- Familiar with **Agile-style workflows and issue tracking**
 - Believe in **learning by building, breaking, and improving**
-- Working towards becoming a **cloud & security-oriented engineer**
+- Working toward becoming a **cloud & security-oriented engineer**
 
 ---
 
 ## 🛠️ Technical Skills
 
-### 💻 Languages
+### 💻 Programming Languages
 ![Languages](https://skillicons.dev/icons?i=c,cpp,python,java,html,css)
 
 ### 🌐 Web Development
@@ -26,28 +27,30 @@
 ![Cloud](https://skillicons.dev/icons?i=aws,firebase)
 ![Netlify](https://img.shields.io/badge/Netlify-Deployed-brightgreen?style=for-the-badge&logo=netlify)
 
-- AWS (IAM, EC2, VPC basics – learning)
+- AWS (IAM, EC2, VPC fundamentals – learning)
 - Firebase (Authentication & Firestore)
 - Netlify (real project deployments)
 
 ### 🔐 Security & Systems
 ![Linux](https://skillicons.dev/icons?i=linux)
 
-- Kali Linux (learning environment)
+- Kali Linux (learning & lab environment)
 - Security fundamentals
 - Networking basics
-- Operating System fundamentals
+- Operating System concepts
 
 ### 🗄️ Databases
 ![Databases](https://skillicons.dev/icons?i=mysql,mongodb)
 
-- Java + MySQL Connector (JDBC)
+- Java + MySQL (JDBC integration)
 
 ### 🧰 Tools & Engineering
 ![Tools](https://skillicons.dev/icons?i=git,github)
 
-![MATLAB](https://img.shields.io/badge/MATLAB-MathWorks-orange?style=for-the-badge&logo=mathworks)
+![Jira](https://img.shields.io/badge/Jira-Basic%20Usage-blue?style=for-the-badge&logo=jira&logoColor=white)
 
+- Jira (basic usage: issues, boards, workflows)
+- Git & GitHub (PRs, issues, collaboration)
 
 ---
 
@@ -71,50 +74,43 @@
   Actively practicing problem-solving, structured courses, and hands-on labs
 </p>
 
-
 ---
-
 
 ## 🐍 Contribution Activity
 ![Snake animation](https://raw.githubusercontent.com/AdarshCodes1221/AdarshCodes1221/output/github-contribution-grid-snake.svg)
 
 ---
----
 
 ## 🧩 GitHub Developer & API Projects
 
 ### 🔍 GitHub Repository Health & Security Analyzer
-A full-stack developer tool built using **GitHub OAuth** and **GitHub REST APIs** to evaluate repository quality and engineering readiness.
+A full-stack developer tool using **GitHub OAuth** and **GitHub REST APIs** to evaluate repository quality and engineering readiness.
 
 **Key Capabilities**
 - Secure GitHub OAuth authentication
-- Profile-level repository analysis
-- Repo health scoring (README, License, Activity)
-- Repo-wise insights with charts and rankings
-- Environment-safe token handling
+- Repository analysis & health scoring
+- Activity, README, and license checks
+- API-driven insights & charts
+- Secure token handling
 
-**What this demonstrates**
-- Practical use of GitHub Developer Platform
-- OAuth 2.0 authorization flows
-- API design & backend engineering
-- Security-aware development practices
-
-🔗 Project Repository:  
+🔗 Repository:  
 https://github.com/AdarshCodes1221/github-repo-inspector
 
 ---
 
-
-
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdarshCodes1221&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdarshCodes1221&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdarshCodes1221&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshCodes1221&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshCodes1221&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=AdarshCodes1221&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AdarshCodes1221&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
