@@ -4,7 +4,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Computer+Science+Undergraduate;Cloud+%26+Cybersecurity+Enthusiast;Full+Stack+Developer;Problem+Solver)](https://git.io/typing-svg)
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://adarshportfolioo.netlify.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://adarsh-jha-portfolio.netlify.app)
 
 </div>
 
